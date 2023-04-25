@@ -28,4 +28,26 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 </div>
 
+<br />
+
+<h3 align="center">Algorithm solved rank</h3>
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skdisk9080)](https://solved.ac/skdisk9080)
+</div>
+
+<br />
+
+<h3 align="center">My Top Langs</h3>
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeBinYang&layout=compact&theme=dark)
+</div>
+
+<br />
+
+<h3 align="center">My GitHub stats</h3>
+<div align="center">
+  
 ![HyeBinYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeBinYang&show_icons=true&theme=highcontrast)
+</div>
