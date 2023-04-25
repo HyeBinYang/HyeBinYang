@@ -9,6 +9,14 @@
 
 <br />
 
+<h3 align="center">My Resume & Portfolio</h3>
+<div align="center">
+  <a href="https://salty-log-035.notion.site/Yang-Hye-Bin-457129857d9644359d43a9e6860be529"><img src="https://img.shields.io/badge/Resume-000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://salty-log-035.notion.site/3f7c9421dbbc474d8ca6e803f1a203cb"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=Notion&logoColor=white"/></a>
+</div>
+
+<br />
+
 <h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
