@@ -33,7 +33,7 @@
 <h3 align="center">Algorithm solved rank</h3>
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skdisk9080)](https://solved.ac/skdisk9080)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skdisk9080)](https://solved.ac/skdisk9080)
 </div>
 
 <br />
