@@ -11,8 +11,8 @@
 
 <h3 align="center">My Resume & Portfolio</h3>
 <div align="center">
-  <a href="[https://salty-log-035.notion.site/Yang-Hye-Bin-457129857d9644359d43a9e6860be529](https://www.rallit.com/resumes/50517@skdisk7368)"><img src="https://img.shields.io/badge/Resume-000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://salty-log-035.notion.site/3f7c9421dbbc474d8ca6e803f1a203cb"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.rallit.com/resumes/50517@skdisk7368"><img src="https://img.shields.io/badge/Resume-green?style=flat-square"/></a>
+  <a href="https://salty-log-035.notion.site/15b8f3633f728018a426e89d3ac59c98"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 
 <br />
